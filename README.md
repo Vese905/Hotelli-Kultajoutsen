@@ -1,2 +1,0 @@
-# Hotelli-Kultajoutsen
-Hotelli lopputyö
